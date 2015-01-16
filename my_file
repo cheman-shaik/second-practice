@@ -10,4 +10,8 @@ change 4 Local
 
 change 5 on Remote
 
+<<<<<<< HEAD
 change 7L on local
+=======
+change 6R on remote
+>>>>>>> 5bd256abdecc09f19524e6084237c730256e9f77
