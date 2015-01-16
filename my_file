@@ -6,4 +6,8 @@ change 2 done on remote
 
 change 3 done on remote
 
+<<<<<<< HEAD
 change 4L done on local
+=======
+change 5R done on remote
+>>>>>>> 2e6ea51b48b1e09d37c7adf119596bc8567c8186
